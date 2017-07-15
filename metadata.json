@@ -1,0 +1,19 @@
+{
+  "name": "que-oski",
+  "version": "1.0.0",
+  "author": "quien sabe",
+  "summary": "oski management",
+  "license": "MIT",
+  "source": "https://github.com/qs5779/puppet-oski",
+  "issues_url": "https://github.com/qs5779/puppet-oski/issues",
+  "project_page": "https://github.com/qs5779/puppet-oski",
+  "description": "handy functions/facts",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [ "5", "6", "7" ]
+    }
+  ]
+}
